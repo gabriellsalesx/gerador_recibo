@@ -1,0 +1,10 @@
+/emissor-cli
+/dist/
+/tmp/
+.codex/
+.agents/
+.agents.md
+*.exe
+*.test
+*.out
+AGENTS.md
