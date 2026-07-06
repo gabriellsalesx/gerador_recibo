@@ -8,12 +8,32 @@ Abra o terminal, digite `emissor-cli`, escolha o documento, responda algumas per
 receba um PDF bonito e organizado automaticamente. Funciona **offline**, sem depender de
 internet, navegador, Word, planilhas ou qualquer runtime externo.
 
+![Interface do Emissor no terminal](blob/interface.png)
+
 ```
 ✅ Recibo gerado com sucesso!
 
 Arquivo:
 ~/Documentos/Emissor/Recibos/2026/07/03/recibo-20260703-153012-0001.pdf
 ```
+
+---
+
+## Exemplos
+
+Exemplos gerados pela própria suíte (dados fictícios).
+
+### Recibo — com Pix offline (QR Code + Copia e Cola)
+
+<img src="blob/exemplo-recibo.png" width="430" alt="Recibo de exemplo">
+
+### Orçamento — itens, desconto, total e validade
+
+<img src="blob/exemplo-orcamento.png" width="430" alt="Orçamento de exemplo">
+
+### Contrato — modelo "propriedade intelectual do prestador"
+
+<img src="blob/exemplo-contrato-1.png" width="430" alt="Contrato de exemplo, página 1"> <img src="blob/exemplo-contrato-2.png" width="430" alt="Contrato de exemplo, página 2">
 
 ---
 
